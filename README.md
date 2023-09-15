@@ -7,17 +7,17 @@ Highlights:
 -------
 * Code the elbow method algorithm to find the best value for k.
 * Visually identify the optimal value for k, plot a line chart of all the inertia values computed with the different values of k.
-* Initialize the K-means model with four clusters by using the best value for k
-* Fit the K-means model by using the original data
-* Predict the clusters for grouping the cryptocurrencies by using the original data
-* Using hvPlot, create a scatter plot, color the graph points with the labels found by using K-means, add the crypto name to the hover_cols parameter to identify the cryptocurrency that each data point represents
+* Initialize the K-means model with four clusters by using the best value for k.
+* Fit the K-means model by using the original data.
+* Predict the clusters for grouping the cryptocurrencies by using the original data.
+* Using hvPlot, create a scatter plot, color the graph points with the labels found by using K-means, add the crypto name to the hover_cols parameter to identify the cryptocurrency that each data point represents.
 
 Principal Component Analysis:
 -------
-* Use the PCA model to reduce the features to three principal components
+* Use the PCA model to reduce the features to three principal components.
 * Get the explained variance to determine how much information can be attributed to each principal component.
 * Initialize the K-means model with four clusters by using the best value for k.
-* Fit the K-means model by using the PCA data
+* Fit the K-means model by using the PCA data.
 
 HVPlot:
 -------
